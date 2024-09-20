@@ -85,7 +85,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/TOP.png);
+    background-image: url(TOP.png);
 );
     min-height: 100vh;
 }
