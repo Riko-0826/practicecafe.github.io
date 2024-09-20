@@ -85,7 +85,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(../images/TOP.png);
+    background-image: url(TOP.png);
     min-height: 100vh;
 }
 #home .page-title {
@@ -94,7 +94,7 @@ img {
 
 /* NEWS---------------------------------------------*/
 #news {
-    background-image: url(../images/Newsh.png);
+    background-image: url(Newsh.png);
     height: 350px;
     margin-bottom: 40px;
     color: #ffffff;
@@ -206,7 +206,7 @@ aside p {
 
 /*MENU--------------------------------------*/
 #menu {
-    background-image: url(../images/MENU.png);
+    background-image: url(MENU.png);
     min-height: 100vh;
 }
 .page-title {
@@ -252,7 +252,7 @@ aside p {
 
 /* CONTACT ----------------------------------*/
 #contact {
-    background-image: url(../images/店内.png);
+    background-image: url(店内.png);
     min-height: 100vh;
 }
 
