@@ -85,7 +85,8 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(TOP.png);
+    background-image: url(../images/TOP.png);
+);
     min-height: 100vh;
 }
 #home .page-title {
