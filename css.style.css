@@ -340,12 +340,13 @@ iframe {
     .news-contents {
         flex-direction: column;
     }
-    .article,aside {
+    article,aside {
         width: 100%;
     }
     #news .page-title {
         margin-top: 30px;
     }
+    
     aside {
         margin-top: 60px;
     }
