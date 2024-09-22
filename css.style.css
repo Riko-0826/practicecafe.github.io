@@ -363,6 +363,10 @@ iframe {
     .post-title,.post-cat {
         margin-left: 80px;
     }
+    .ad img {
+        height:auto;
+    }
+        
 
     /* MENU*/
     .menu-content {
