@@ -350,6 +350,7 @@ iframe {
         margin-top: 60px;
     }
     .post-info {
+        width:100%;
         margin-bottom: 30px;
     }
     .post-date {
