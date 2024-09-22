@@ -369,7 +369,7 @@ iframe {
         margin-left: 80px;
     }
     .ad  {
-        height:auto;
+        display:none;
     }
         
 
